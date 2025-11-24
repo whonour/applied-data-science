@@ -1,0 +1,17 @@
+title: "William Honour - Data Science Portfolio"
+description: "Applied Data Science & DSC650 projects — machine learning, big data, and analytics."
+theme: minima
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects/online-shopper.md
+  - projects/childcare-inequity.md
+  - projects/aqi-prediction.md
+  - projects/big-data-pipeline.md
+
+author:
+  name: "William Honour"
+  email: "williamhonour2016@gmail.com"
+
+github_username: whonour
