@@ -1,0 +1,19 @@
+data-science-portfolio/
+├─ _config.yml
+├─ index.md                 # Home / landing page
+├─ projects/
+│   ├─ online-shopper.md
+│   ├─ childcare-inequity.md
+│   ├─ aqi-prediction.md
+│   └─ big-data-pipeline.md
+├─ assets/
+│   └─ img/
+│       ├─ online-shopper-confusion-matrix.png
+│       ├─ childcare-map.png
+│       ├─ aqi-feature-importance.png
+│       └─ bigdata-pipeline-diagram.png
+└─ code/                    # Optional: copies/wrappers pointing to actual code
+    ├─ online-shopper/
+    ├─ childcare-inequity/
+    ├─ aqi-prediction/
+    └─ big-data-pipeline/
