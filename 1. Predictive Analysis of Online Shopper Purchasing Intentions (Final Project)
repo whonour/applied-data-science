@@ -1,0 +1,9 @@
+1. Predictive Analysis of Online Shopper Purchasing Intentions (Final Project)
+
+Tech: Python, Scikit-Learn, XGBoost, Pandas, Matplotlib
+Built a full CRISP-DM machine learning pipeline to predict online purchasing behavior. Conducted EDA, feature engineering, model training, hyperparameter tuning, and evaluation. Random Forest provided the strongest balance of accuracy and recall.
+📄 Project PDFs:
+
+Final Presentation → /mnt/data/WilliamHonour_FinalProjectPresentation.pdf
+
+Final Submission → /mnt/data/WilliamHonour_FinalProjectSubmission (1).pdf
